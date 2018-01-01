@@ -1,0 +1,2 @@
+# start
+mulai dari awal
